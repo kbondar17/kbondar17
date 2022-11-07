@@ -11,7 +11,7 @@
 
 Работаю на проекте ["Декларатор"](https://declarator.org/about/) - развиваю систему по сбору информации о десятках тысячах госслужащих.
 
-Умею писать [ботов](https://github.com/kbondar17/pocket-rss), скрейпить и анализировать [данные](https://kbondar17-telegram-viz-streamlit-app-f63q2m.streamlit.app/). 
+Умею писать [ботов](https://github.com/kbondar17/pocket-rss), скрейпить, анализировать и визуализировать [данные](https://kbondar17-telegram-viz-streamlit-app-f63q2m.streamlit.app/). 
 
 
 Отсутствие профильного образования компенсирую усидчивостью и жгучим желанием учиться. 
