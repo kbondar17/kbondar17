@@ -1,4 +1,5 @@
 ### Hi there 👋
+[По-русски](/Russian.md)
 
 Eager Python developer with 2 years of experience. Acquainted with database engineering, data processing and Python web
 frameworks. Became a developer because you can get more with a kind word and technologies than with just a kind
