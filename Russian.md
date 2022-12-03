@@ -3,11 +3,12 @@
 
 Понимаю, как работают:
 
-* Базы данных: Postgres, Redis, SqlAlchemy
+* Базы данных: Postgres, Redis, SqlAlchemy, 
 * Веб-фреймворки: Django, Flask, FastAPI, Aiohttp
-* ETL-процессы: Pandas
+* Анализ данных: Pandas
 * Автоматизация: Selenium
 * Контейнеризация: Docker
+* Прочее: Elasticsearch, Kafka, ClikHouse
 
 Работаю на проекте ["Декларатор"](https://declarator.org/about/) - развиваю систему по сбору информации о десятках тысячах госслужащих.
 
