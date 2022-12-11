@@ -3,7 +3,7 @@
 
 Понимаю, как работают:
 
-* Базы данных: Postgres, Redis, SqlAlchemy, 
+* Базы данных: Postgres, Redis, SqlAlchemy, MongoDB
 * Веб-фреймворки: Django, Flask, FastAPI, Aiohttp
 * Анализ данных: Pandas
 * Автоматизация: Selenium
