@@ -7,7 +7,7 @@ I dream of joining a team of professionals to work hard on non-trivial challenge
 
 
 
-My CV: https://www.linkedin.com/in/cyrill-maev-993150a1/
+My [CV](https://www.linkedin.com/in/cyrill-bondar-993150a1/)
 
 Checkout my latest viz https://kbondar17-telegram-viz-streamlit-app-f63q2m.streamlitapp.com/
 
